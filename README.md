@@ -1,50 +1,70 @@
-# Welcome to your Expo app 👋
+# 🎬 Movie Search App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Aplicación móvil de **búsqueda de películas** desarrollada con **React, TypeScript y Expo**, que permite a los usuarios buscar películas, ver información detallada y gestionar una lista de favoritos.
 
-## Get started
+El proyecto fue creado para practicar el desarrollo de **aplicaciones multiplataforma** usando tecnologías modernas de JavaScript.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+# 📌 Descripción
 
-2. Start the app
+Movie Search App es una aplicación que permite a los usuarios **buscar películas y consultar información sobre ellas** de forma rápida y sencilla.
 
-   ```bash
-   npx expo start
-   ```
+Los usuarios pueden introducir el nombre de una película en el buscador, ver los resultados y acceder a una pantalla con **información detallada de cada película**.
 
-In the output, you'll find options to open the app in a
+Además, la aplicación incluye diferentes **pestañas de navegación**, como una sección para guardar **películas favoritas**.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+# ✨ Funcionalidades
 
-## Get a fresh project
+- 🔎 Buscar películas por nombre
+- 🎬 Ver información detallada de cada película
+- ⭐ Guardar películas en favoritos
+- 📑 Navegación mediante pestañas
+- 📱 Aplicación compatible con diferentes dispositivos
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
+# 🛠 Tecnologías utilizadas
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge&logo=expo)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+# 📱 Características de la aplicación
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- Interfaz simple y fácil de usar
+- Navegación entre diferentes pantallas
+- Diseño pensado para dispositivos móviles
+- Búsqueda rápida de películas
+- Gestión de favoritos
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+# 📚 Lo que aprendí
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+- Crear aplicaciones **multiplataforma** usando **React y Expo**.
+- Utilizar **TypeScript** para mejorar la estructura y seguridad del código.
+- Implementar **navegación entre pantallas** dentro de una aplicación móvil.
+- Consumir APIs externas para obtener información sobre películas.
+- Manejar el **estado de la aplicación** para guardar películas favoritas.
+
+---
+
+# ⚠️ Retos enfrentados
+
+- Implementar correctamente la **navegación entre pantallas**.
+- Gestionar el estado de **películas favoritas**.
+- Manejar los **resultados de búsqueda** de forma eficiente.
+- Adaptar la interfaz para que funcione correctamente en **diferentes dispositivos**.
+
+---
+
+# 🎓 Proyecto de aprendizaje
+
+Este proyecto fue desarrollado como **ejercicio práctico** para aprender a crear aplicaciones móviles utilizando **React, TypeScript y Expo**.
